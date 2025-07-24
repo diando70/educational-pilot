@@ -32,7 +32,7 @@ his scenario shows how Politehnica University of Timisoara issues and verifies m
 | ---------------------------------------- | ---------------------------------------------------------------------------------- |
 | **scenario name**                        | micro-credential issuance and verification |
 | **piloting agent**                       | Politehnica University of Timisoara |
-| **end users identification**             | 10 students |
+| **end users identification**             | 11 students |
 | **selection criteria**                   | E³UDRES² – Ent-r-e-novators PhD Summer School Completion |
 | **eaas involved**                        | PID, EducationalID, Micro-credential |
 | **institutional systems involved**       | university registry, issuer microservice, verifier portal |
